@@ -1,6 +1,3 @@
-![logo](supun-new.png)
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
-
 <h1 align="center">Hi 👋, I'm Muhammad Hassan</h1>
 <h3 align="center">A passionate Developer from Pakistan.</h3>
 <p align="center">I'm a passionate web and app developer with a focus on creating intuitive and responsive digital experiences. Whether it's building sleek websites or developing robust mobile applications, I strive to deliver solutions that are both visually compelling and functionally sound. My approach is user-centric, ensuring that every project I undertake is designed with the end user in mind. I'm continuously learning and adapting to the latest technologies, and I'm always excited to take on new challenges.  🛠️</p>
