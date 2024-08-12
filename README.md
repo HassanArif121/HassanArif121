@@ -29,7 +29,6 @@
 
 - 📫 How to reach me **hassan7663arif@gmail.com**
 
-- ⚡ Fun fact **I think I'm funny**
 
 <br>
 <h3 align="left">Connect with me:</h3>
